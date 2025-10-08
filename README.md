@@ -1,16 +1,75 @@
-## Hi there 👋
+## Hello, Im GoldenKiwi
 
-<!--
-**GoldenDev20/GoldenDev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![GitHub followers](https://img.shields.io/github/followers/GoldenDev20?style=plastic&label=Folow%20me)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🌍 I’m from **New Zealand**
+- 💼 I’m currently a **Freelance Coder**
+- 🏆 I love working on **video games and other projects**
+- 🔭 I’m interested in **Computer engineering**
+- 🎯 My goal is to combine creativity and technology to solve real-world problems, especially in innovative fields like gaming and aerospace and Computer S.
+- 🧠 I am always looking to **learn new technologies** and creating impactful solutions.
+
+  ---
+
+  ## 🚀 My Goals
+
+- **Short-term Goals:**
+  - Build a portfolio showcasing my projects in game development and app development. *currently on it*
+- **Long-term Goals:**
+  - Develop my own video game from scratch and publish it (on multiple platforms if possible).
+  - Develop my own Operating system
+ 
+---
+## 🛠️ Tech Stack
+
+### Languages
+
+#### SQL DB
+
+---
+### Frameworks and Libraries
+#### Python
+
+#### JS/TS
+
+---
+
+### Tools
+#### OS
+
+#### Dev Tools
+
+#### Software
+
+#### IDE
+
+#### Design
+
+---
+
+### AI
+
+---
+
+## 🚀 Projects
+
+---
+
+## 📊 Github Stats
+
+---
+
+## Wakatime Stats
+
+---
+
+## 🌐 Social Links
+
+---
+
+## 🏖️ Hobbies
+
