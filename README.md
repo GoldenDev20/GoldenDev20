@@ -42,58 +42,54 @@
 ![Static Badge](https://img.shields.io/badge/XML-%23005FAD?style=plastic&logo=xml&logoColor=white&logoSize=auto)
 
 #### SQL DB
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=mysql&logoColor=white&logoSize=auto)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=plastic&logo=sqlite&logoColor=white&logoSize=auto)
 
 ---
 ### Frameworks and Libraries
 #### Python
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=plastic&logo=numpy&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=plastic&logo=pandas&logoColor=white&logoSize=auto)
 #### JS/TS
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+![Static Badge](https://img.shields.io/badge/Express.js-%23000000?style=plastic&logo=express&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/FastAPI-%23009688?style=plastic&logo=fastapi&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=plastic&logo=nextdotjs&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=plastic&logo=nodedotjs&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=plastic&logo=tailwindcss&logoColor=white&logoSize=auto)
 
 ---
 
 ### Tools
 #### OS
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Debian-%23A81D33?style=plastic&logo=debian&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=plastic&logo=ubuntu&logoColor=white&logoSize=auto)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
- 
+![Static Badge](https://img.shields.io/badge/Kali-%23557C94?style=plastic&logo=kalilinux&logoColor=white&logoSize=auto)
+
 #### Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat&logo=make&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=git&logoColor=white&logoSize=auto)
 
 
 #### Software
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-F07C00?style=flat&logo=davinci-resolve&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Canva-%2300C4CC?style=plastic&logo=canva&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Davinci_Resolve-%23233A51?style=plastic&logo=davinciresolve&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=plastic&logo=vercel&logoColor=white&logoSize=auto)
 
 #### IDE
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-00599C?style=flat&logo=apache-netbeans-ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Eclipse-%232C2255?style=plastic&logo=eclipseide&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/IntellJ_IDEA-%23000000?style=plastic&logo=intellijidea&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/NetBeans-%231B6AC6?style=plastic&logo=apachenetbeanside&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2390E59A?style=plastic&logo=notepadplusplus&logoColor=white&logoSize=auto)
 
 #### Design
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
-[![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff)](#)
+![Static Badge](https://img.shields.io/badge/Blender-%23E87D0D?style=plastic&logo=blender&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Canva-%2300C4CC?style=plastic&logo=canva&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/GIMP-%238C8073?style=plastic&logo=gimp&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/SketchUp-%23005F9E?style=plastic&logo=sketchup&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/SketchFab-%231CAAD9?style=plastic&logo=sketchfab&logoColor=white&logoSize=auto)
 
 
 ---
