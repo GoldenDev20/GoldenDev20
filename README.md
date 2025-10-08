@@ -48,6 +48,8 @@
 #### IDE
 
 #### Design
+[![Static Badge](https://img.shields.io/badge/Blender-%23F5792A?style=plastic&logo=blender&logoColor=white&logoSize=auto)](https://www.blender.org)
+
 
 ---
 
