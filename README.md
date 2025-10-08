@@ -76,6 +76,9 @@
 ![Static Badge](https://img.shields.io/badge/Canva-%2300C4CC?style=plastic&logo=canva&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Davinci_Resolve-%23233A51?style=plastic&logo=davinciresolve&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=plastic&logo=vercel&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Unreal_Engine-%230E1128?style=plastic&logo=unrealengine&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Unity-%23FFFFFF?style=plastic&logo=unity&logoColor=white&logoSize=auto)
+
 
 #### IDE
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
