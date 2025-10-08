@@ -106,7 +106,7 @@
 ## 🚀 Projects
 
 ---
-
+<!--
 ## 📊 Github Stats
 
 ---
@@ -114,7 +114,7 @@
 ## Wakatime Stats
 
 ---
-
+-->
 ## 🌐 Social Links
 
 ---
